@@ -53,7 +53,7 @@ pip install fredapi wbgapi requests plotly pandas
 
 **3. Add your FRED API key**
 
-Get a free key at [fred.stlouisfed.org/docs/api/api_key.html](https://fred.stlouisfed.org/docs/api/api_key.html), then open `macro_dashboard.py` and replace the value on line 22:
+Get a free key at [fred.stlouisfed.org/docs/api/api_key.html](https://fred.stlouisfed.org/docs/api/api_key.html), then open `macro_dashboard.py` and replace the value on line 24:
 ```python
 FRED_API_KEY = "your_key_here"
 ```

@@ -21,7 +21,7 @@ warnings.filterwarnings("ignore")
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-FRED_API_KEY = "bb8a3779cdd23ffa592e380348d4014e"
+FRED_API_KEY = "your_key_here"
 START_DATE   = "2015-01-01"
 START_YEAR   = 2015
 
